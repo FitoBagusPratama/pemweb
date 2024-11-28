@@ -72,7 +72,7 @@
 
 <body>
     <div class="register-card text-center">
-        <h2>Daftar Akun</h2>
+        <h2>DAFTAR AKUN</h2>
         <form action="./backend/register.php" method="post" class="mt-4">
             <div class="mb-3">
                 <input type="text" name="name" class="form-control" placeholder="Enter your name" required>
